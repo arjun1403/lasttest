@@ -1,4 +1,8 @@
 hi
 this is student file
 how are you?
+<<<<<<< Updated upstream
 Here new line added form remote repo
+=======
+this it new line added from local repository
+>>>>>>> Stashed changes
