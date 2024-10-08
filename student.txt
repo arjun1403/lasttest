@@ -1,7 +1,7 @@
 hi
 this is student file
 how are you?
-4th line remote repo
+Here new line added form remote repo
 Here new line added form remote repo
 this it new line added from local repository
 
